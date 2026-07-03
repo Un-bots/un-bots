@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./imgs/commits-2026.svg" alt="Commit History" />
+  <img src="./Imgs/commits-2026.svg" alt="Commit History" />
 </p>
 
 ---
