@@ -13,7 +13,7 @@ import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import requests
 
-USER = "sebastianbreguel"
+USER = "un-bots"
 OUT = Path(__file__).parent.parent / "imgs" / "commits-2026.svg"
 
 
