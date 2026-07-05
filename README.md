@@ -1,11 +1,13 @@
 ---
-<h2 align="center">📊 HARSH SINGH'S GitHub Stats</h2>
+#📊 HARSH SINGH'S GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Un-bots&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" /><br><br>
-
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Un-bots&theme=tokyonight&hide_border=true" /><br><br>
-
+</p>
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Un-bots&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
