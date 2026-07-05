@@ -67,17 +67,7 @@
 ---
 <h2 align="center">📊 HARSH SINGH'S GitHub Stats</h2>
 
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.shion.dev/api?username=Un-bots&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Un-bots&theme=tokyonight&hide_border=true&layout=compact" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Un-bots&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Un-bots&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
