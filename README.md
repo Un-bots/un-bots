@@ -2,14 +2,9 @@
 #📊 HARSH SINGH'S GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Un-bots&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" /><br><br>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Un-bots&theme=tokyonight&hide_border=true" /><br><br>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Un-bots&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+
 
 <p align="center">
   <img src="./Imgs/commits-2026.svg" alt="Commit History" />
@@ -55,10 +50,18 @@
 
 
 ## 🏆 GitHub Trophies
+<p 
+  
 ![](https://github-profile-trophy.vercel.app/?username=Un-bots&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Un-bots&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Un-bots&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" /><br><br>
+</p>
+
+<p 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Un-bots&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Un-bots&icon=2&color=0)](https://visitcount.itsvg.in)
+
