@@ -68,6 +68,6 @@
 <h2 align="center">📊 HARSH SINGH'S GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Un-bots&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Un-bots&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Un-bots&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
+  <img width="37%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Un-bots&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
