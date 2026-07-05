@@ -3,7 +3,7 @@
 ## HARSH SINGH'S GitHub Stats
 --
 # 📊Stats:
-<p
+<p align="center">
   
 ![](https://github-readme-stats.shion.dev/api?username=Un-bots&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Un-bots&theme=tokyonight&hide_border=true)<br/>
