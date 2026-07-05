@@ -16,3 +16,12 @@
 </p>
 
 ---
+---
+
+### ðŸ“Š Showcase
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=un-bots&theme=react-dark&hide_border=true" />
+</p>
+
+---
