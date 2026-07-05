@@ -65,4 +65,19 @@
 </p>
 
 ---
+<h2 align="center">📊 HARSH SINGH'S GitHub Stats</h2>
 
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.shion.dev/api?username=Un-bots&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Un-bots&theme=tokyonight&hide_border=true&layout=compact" />
+
+</td>
+</tr>
+</table>
