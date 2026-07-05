@@ -50,14 +50,12 @@
 
 
 ## 🏆 GitHub Trophies
-<p 
+<p
   
 ![](https://github-profile-trophy.vercel.app/?username=Un-bots&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Un-bots&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false" /><br><br>
-</p>
+
 
 <p 
   
@@ -66,7 +64,7 @@
 </p>
 
 ---
-<h2 align="center">📊 HARSH SINGH'S GitHub Stats</h2>
+<h2 align="center">📊 HARSH SINGH'S Stats</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Un-bots&show_icons=true&theme=blue-green&hide_border=true&count_private=true" />
