@@ -46,7 +46,7 @@
 
 
 ----
-## 🌐 Socials:
+# 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Ixans)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Harshh_singh7) 
 
