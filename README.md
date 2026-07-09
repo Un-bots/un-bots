@@ -55,11 +55,7 @@
 
 
 
-## 🏆 GitHub Trophies
-<p
-  
-![](https://github-profile-trophy.vercel.app/?username=Un-bots&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</p>
+
 
 
 
